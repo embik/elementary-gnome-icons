@@ -30,11 +30,3 @@ It is strongly encouraged to vacuum all vectors with [Inkscape](http://inkscape.
 $ cp pre-commit .git/hooks/
 $ chmod +x .git/hooks/pre-commit
 ```
-
-## Not a Universal Icon Set
-Since this set is designed specifically for elementary OS, pull requests to add icons or symlinks that are specific to other desktop environments (such as `xfce-*` or `gnome-*` named icons) will be rejected.
-
-Use of icon names in line with the [FreeDesktop.Org Icon Naming Specification](http://standards.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html) is encouraged.
-
-## Third-Party Brand Preservation
-elementary icons do not attempt to supply icons for third-party apps. Pull requests to add icons or symbolic links that would overwrite the branding of third-party apps will be rejected.
