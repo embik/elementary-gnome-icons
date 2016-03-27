@@ -1,5 +1,5 @@
-Name:		elementary-gnome-icon-theme		
-Version:	0.1.1
+Name:		elementary-gnome-icon-theme
+Version:	0.1.2
 Release:	1%{?dist}
 Summary:	Icons from the elementary project, improved for GNOME
 
@@ -49,6 +49,10 @@ gtk-update-icon-cache %{_datadir}/icons/elementary-gnome &>/dev/null || :
 %ghost %{_datadir}/icons/elementary-gnome/icon-theme.cache
 
 %changelog
+* Sun Mar 27 2016 Marvin Beckers <mail@embik.me> - 0.1.2-1
+- Merge upstream revisions
+- Refresh mimetype icons
+- Add i18n format icons
 * Sat Feb 20 2016 Marvin Beckers <mail@embik.me> - 0.1.1-1
 - Merge upstream revisions (minor improvements)
 * Sun Dec 27 2015 Marvin Beckers <beckersmarvin@gmail.com> - 0.1.0-1
