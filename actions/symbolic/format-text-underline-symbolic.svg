@@ -5,10 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   id="svg7384"
+   width="16"
    version="1.1"
-   width="16">
+   id="svg7384"
+   height="16">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -18,65 +18,41 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>elementary Symbolic Icon Theme</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <title
      id="title9167">elementary Symbolic Icon Theme</title>
   <defs
-     id="defs7386">
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554-7">
-      <feBlend
-         id="feBlend7556-6"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-  </defs>
+     id="defs7386" />
   <g
-     id="layer9"
-     label="status"
+     transform="translate(-277.00061,55)"
      style="display:inline"
-     transform="translate(-413.0006,-48)" />
-  <g
-     id="layer10"
-     style="display:inline"
-     transform="translate(-413.0006,-48)" />
-  <g
-     id="layer13"
-     style="display:inline"
-     transform="translate(-413.0006,-48)" />
-  <g
-     id="layer14"
-     transform="translate(-413.0006,-48)" />
-  <g
-     id="layer15"
-     style="display:inline"
-     transform="translate(-413.0006,-48)" />
-  <g
-     id="g71291"
-     style="display:inline"
-     transform="translate(-413.0006,-48)" />
-  <g
-     id="layer12"
-     style="display:inline"
-     transform="translate(-413.0006,-48)">
+     id="layer12">
     <path
-       d="m 417,50 0,2 6,0 c 0.42816,0 1,0.614142 1,1 l 0,1 -5,0 c -0.91927,0 -1.7356,0.383964 -2.25,0.96875 -0.5144,0.584786 -0.75639,1.310628 -0.75,2.03125 0.006,0.720622 0.26893,1.452713 0.78125,2.03125 C 417.29357,59.609787 418.09172,60 419,60 l 6,0 1,0 0,-1 0,-6 c 0,-1.634342 -1.3198,-3 -3,-3 l -6,0 z m 2,6 5,0 0,2 -5,0 c -0.39787,0 -0.56691,-0.109787 -0.71875,-0.28125 C 418.12941,57.547287 418.00248,57.279378 418,57 c -0.002,-0.279378 0.10467,-0.553536 0.25,-0.71875 C 418.39533,56.116036 418.57764,56 419,56 z"
-       id="path11643-3-2"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4505-5"
+       d="m 279.00061,-42 0,1 12,0 0,-1 z" />
     <path
-       d="m 415,61 0,2 12,0 0,-2 -12,0 z"
-       id="path5100"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4507"
+       d="m 281.00061,-53 0,5 c 0,1.611111 0.24528,2.845665 0.96875,3.75 0.72347,0.904335 1.86458,1.25 3.03125,1.25 1.16667,0 2.30778,-0.345665 3.03125,-1.25 0.72347,-0.904335 0.96875,-2.138889 0.96875,-3.75 l 0,-5 -2,0 0,5 c 0,1.388889 -0.25472,2.154335 -0.53125,2.5 -0.27653,0.345665 -0.63542,0.5 -1.46875,0.5 -0.83333,0 -1.19222,-0.154335 -1.46875,-0.5 -0.27653,-0.345665 -0.53125,-1.111111 -0.53125,-2.5 l 0,-5 -2,0 z" />
   </g>
 </svg>
